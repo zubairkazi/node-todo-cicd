@@ -4,6 +4,7 @@ metadata:
   name: node-pod
   namespace: node-app
 
+
 spec:
   containers:
     - name: node-container
